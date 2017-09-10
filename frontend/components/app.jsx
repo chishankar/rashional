@@ -19,8 +19,8 @@ class App extends React.Component {
       rashChartData: [
      ],
      predictionData: {},
-     latitude: 0,
-     longitude: 0,
+     latitude: 39,
+     longitude: -76,
      cardData:[],
      lang: null
     }
