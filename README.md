@@ -1,7 +1,11 @@
-Rashional
+### Rashional
 ==========================================================
 
-This is an application that uses Machine Learning to identify if a rash might be a symptom of one of several serious diseases.
+Access to Care is a challenge at this years Hackathon with an aim to nulify social and regional determinants from impacting ones health. Our mobile/desktop app, Rashional, tackles this problem by using a Machine Learning Algorithim to identify different skin rashes, the severity, and utilizes a Free Clinic API to provide the user with a list of the nearest free healthcare clinics available to them. The app helps to provide initial insight and direction to a medical problem, in a field in which there is not a readily available solution that is accessible through the internet and works via a single picture upload.
+
+The app is also available in both English and Spanish so it can be accommodate a larger user base and provide Access to Care to a larger growing population of native English and Spanish speakers.
+
+TL;DR: This is an application that uses Machine Learning to identify if a rash might be a symptom of one of several serious diseases and directs you to the nearest free clinic to get the rash treated at.
 
 ## Development
 The following shows how to get started with developing on this app
